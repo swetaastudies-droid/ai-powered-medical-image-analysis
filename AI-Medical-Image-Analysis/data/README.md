@@ -1,0 +1,1 @@
+Download the Kaggle Chest X-Ray Images (Pneumonia) dataset yourself. Put its `train` and `test` directories under `data/raw/chest_xray/`. Do not commit dataset images to GitHub. Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia. Check its terms and attribution requirements.
